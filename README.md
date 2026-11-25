@@ -49,10 +49,10 @@
 
 ### ⚡ Current Status & Goals
 
-- 🔭 **Looking for:** Open-source or team collaborations on **MERN / MEAN** stack applications.
+- 🔭 **Looking for:** Open-source JS FrameWorks or team collaborations on **MERN / MEAN** stack applications.
 - 🌱 **Leveling up in:** PHP ecosystems (**Symfony** & **Laravel**) and cross-platform **Mobile Development**.
 - ⚙️ **Obsessed with:** Automating workflows, CI/CD pipelines, and modern **DevOps** culture.
-- 🤝 **Let's connect:** Reach out anytime via email or WhatsApp (`+216 99 355 036`) to brainstorm or build together!
+- 🤝 **Let's connect:** Reach out anytime via email (`mouadh.hannashi@gmail.com`) or WhatsApp (`+216 99 355 036`) to brainstorm or build together!
 
 ---
 
