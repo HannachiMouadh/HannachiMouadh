@@ -22,9 +22,9 @@
   "name": "Mouadh Hannachi",
   "handle": "@HannachiMouadh",
   "location": "Tunisia 🇹🇳",
-  "focus": ["DevOps Practices", "Full-Stack Web", "Mobile Development"],
-  "currentlyLearning": ["Symfony", "Laravel", "Mobile Frameworks"],
-  "openTo": "Collaborating on MERN & MEAN stack projects"
+  "focus": ["DevOps Practices", "Full-Stack JS", "Mobile Development"],
+  "currentlyLearning": ["Symfony", "NodeJS", "JAVA", "TypeScript", "Mobile Frameworks"],
+  "openTo": "Collaborating on anything digital 🤯"
 }
 ```
 
