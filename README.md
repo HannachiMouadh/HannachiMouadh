@@ -60,7 +60,8 @@
 
 ### 📊 GitHub Activity
 
-![Mouadh's GitHub Stats](https://mouadh-hannachi.onrender.com)
+![Mouadh's GitHub Stats](https://github.com/HannachiMouadh)
+![Top Langs](https://mouadh-hannachi.onrender.com)
 
 </div>
 
